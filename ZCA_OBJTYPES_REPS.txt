@@ -7,7 +7,7 @@
 *&---------------------------------------------------------------------*
 
 REPORT  ZCA_OBJTYPES.
-*charlie test
+
 data:
   it_out                    type standard table of KO100.
 
